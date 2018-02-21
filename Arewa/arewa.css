@@ -1,0 +1,68 @@
+body{
+	background-image: url(background.jpg);
+	background-size: 120%;
+	background-position: center;
+	background-attachment: fixed;
+
+	
+}
+.navbar-brand{
+	font-size: 2em;
+	font-family: serif;
+}
+.form{
+	border: 50px;
+	border-color: white;
+	margin: 12% 15%;
+	margin-left: 35%;
+}
+.form-group{
+	width:60%;
+	height:50%;
+}
+.btn{
+	color: white;
+	background-color: grey;
+	border-color: grey;
+}
+.btn:hover{
+	background-color: #007bff;
+}
+#navbarSupportedContent{
+	margin-left: 20%;
+}
+.navbar-nav{
+	color: white;
+}
+#registration{
+	font-family: amble;
+	margin-top: 8%;
+	margin-left: 40%;
+	width:50%;
+	height: 40%;
+	color: white;
+}
+.form-group, .form-check{
+	color: white;
+}
+input[type="text"] {
+    color:black;
+    border-radius: 0%;
+    margin-right: 0%;
+    width: 60%;
+   
+}
+input[type="password"] {
+    color:black;
+    border-radius: 0%;
+    margin-right: 0%;
+    width: 60%;
+   
+}
+input[type="email"] {
+    color:black;
+    border-radius: 0%;
+    margin-right: 0%;
+    width: 60%;
+   
+}
