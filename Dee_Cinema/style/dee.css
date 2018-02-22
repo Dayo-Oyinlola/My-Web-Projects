@@ -1,0 +1,49 @@
+body{
+	background: radial-gradient(circle, lightgrey,white, skyblue);
+	/*padding:10px;*/
+}
+#reg{
+	text-decoration: none;
+}
+#endp{
+	text-align: center;
+}
+#sec{
+	text-align: center;
+}
+#myimg{
+	height: 400px;
+}
+.nav-item{
+	margin-left: 60px;
+}
+/*.the-end{
+	background: radial-gradient(circle, lightgrey, grey, black);
+}*/
+#social{
+	width: 20px;
+}
+.foot-er{
+	color:white;
+	position: fixed;
+	margin-top: 30%;
+}
+.container{
+	margin-top: 30px;
+}
+#list{
+	width: 30%;
+}
+#book{
+	text-align: justify;
+	margin-top: 10%;
+	margin-left: 20%;
+}
+input{
+	width: 50%;
+}
+h5{
+	color:brown;
+	font-family: calibri;
+	font
+}
